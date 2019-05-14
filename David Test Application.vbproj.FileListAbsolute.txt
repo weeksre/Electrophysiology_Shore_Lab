@@ -1,0 +1,10 @@
+C:\Documents and Settings\shore_lab\Local Settings\Application Data\Temporary Projects\David Test Application\bin\Debug\David Test Application.exe
+C:\Documents and Settings\shore_lab\Local Settings\Application Data\Temporary Projects\David Test Application\bin\Debug\David Test Application.pdb
+C:\Documents and Settings\shore_lab\Local Settings\Application Data\Temporary Projects\David Test Application\bin\Debug\David Test Application.xml
+C:\Documents and Settings\shore_lab\Local Settings\Application Data\Temporary Projects\David Test Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shore_lab\Local Settings\Application Data\Temporary Projects\David Test Application\obj\Debug\David_Test_Application.Form1.resources
+C:\Documents and Settings\shore_lab\Local Settings\Application Data\Temporary Projects\David Test Application\obj\Debug\David_Test_Application.Resources.resources
+C:\Documents and Settings\shore_lab\Local Settings\Application Data\Temporary Projects\David Test Application\obj\Debug\David Test Application.vbproj.GenerateResource.Cache
+C:\Documents and Settings\shore_lab\Local Settings\Application Data\Temporary Projects\David Test Application\obj\Debug\David Test Application.exe
+C:\Documents and Settings\shore_lab\Local Settings\Application Data\Temporary Projects\David Test Application\obj\Debug\David Test Application.xml
+C:\Documents and Settings\shore_lab\Local Settings\Application Data\Temporary Projects\David Test Application\obj\Debug\David Test Application.pdb

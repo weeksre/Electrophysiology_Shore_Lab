@@ -1,0 +1,24 @@
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\Interop.AccessibilityCplAdminLib.dll
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\Interop.PA5XLib.dll
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\Interop.TDEVACCXLib.dll
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\Interop.TTANKXLib.dll
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\David Test Application1.vbproj.ResolveComReference.cache
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\bin\Release\My Project.Resources.Designer.vb.dll
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\David_Test_Application.Form1.resources
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\David_Test_Application.Form2.resources
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\David_Test_Application.Form3.resources
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\David_Test_Application.Resources.resources
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\David Test Application1.vbproj.GenerateResource.Cache
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\Interop.MLApp.dll
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\David Test Application1.vbprojResolveAssemblyReference.cache
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\bin\Release\Stimulus Protocol System New.exe.manifest
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\bin\Release\Stimulus Protocol System New.application
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\bin\Release\Stimulus Protocol System New.exe
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\bin\Release\Stimulus Protocol System New.pdb
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\bin\Release\Stimulus Protocol System New.xml
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\Stimulus Protocol System New.TrustInfo.xml
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\Stimulus Protocol System New.exe.manifest
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\Stimulus Protocol System New.application
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\Stimulus Protocol System New.exe
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\Stimulus Protocol System New.xml
+C:\Users\shorelab\Desktop\TDT Test Case Generator\David Test Application1\obj\Release\Stimulus Protocol System New.pdb
